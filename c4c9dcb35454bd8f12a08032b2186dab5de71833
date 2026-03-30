@@ -1,0 +1,23 @@
+apps/web/src/components/ChatView.tsx
+  83a18106c130d9fd 2670-2678
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "c4c9dcb35454bd8f12a08032b2186dab5de71833",
+  "prompts": {
+    "83a18106c130d9fd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019d25a9-2cdf-76d3-a9ea-0fac611da3f1",
+        "model": "gpt-5.4"
+      },
+      "human_author": "neominik <dominik.engelhardt@nedap.com>",
+      "messages": [],
+      "total_additions": 9,
+      "total_deletions": 8,
+      "accepted_lines": 9,
+      "overriden_lines": 0
+    }
+  }
+}
